@@ -1,0 +1,4 @@
+# The Best Ice Cream Ever— Flavor Component Analysis
+---
+
+This project analyzes a dataset of ice cream flavors to identify key ingredients and their interactions that contribute to high consumer ratings. By focusing on top-rated flavors across multiple brands, the study examines the frequency and co-occurrence of base flavors, mix-ins, and swirls to uncover popular ingredient combinations. Additionally, sentiment analysis of flavor descriptions and customer reviews helps identify language that evokes positive responses. The findings aim to provide actionable insights into ingredient pairings and flavor descriptions, offering recommendations for future ice cream combinations that have the potential to become fan favorites.
